@@ -1,13 +1,24 @@
-// The Vue build version to load with the `import` command
-// (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
+import { ApolloClient, createBatchingNetworkInterface } from 'apollo-client'
+import VueApollo from 'vue-apollo'
 import App from './App'
 
-Vue.config.productionTip = false
+const apolloClient = new ApolloClient({
+  networkInterface: createBatchingNetworkInterface({
+    uri: 'https://api.graph.cool/simple/v1/cj9jbvp2387as0189u5fmer98',
+  }),
+  connectToDevTools: true,
+})
 
-/* eslint-disable no-new */
+const apolloProvider = new VueApollo({
+  defaultClient: apolloClient,
+})
+
+Vue.use(VueApollo)
+
 new Vue({
   el: '#app',
+  apolloProvider,
   template: '<App/>',
   components: { App }
 })
