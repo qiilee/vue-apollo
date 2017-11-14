@@ -13,9 +13,9 @@
     "unit": "karma start test/unit/karma.conf.js --single-run"
   },
   "dependencies": {
-    "apollo-client": "^2.0.1",
+    "apollo-client": "^1.9",
     "vue": "^2.1.0",
-    "vue-apollo": "^1.4.1"
+    "vue-apollo": "^2.1.0-rc.8"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
