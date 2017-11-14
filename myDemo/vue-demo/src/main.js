@@ -6,9 +6,6 @@ import VueRouter from 'vue-router'
 import VueResource from 'vue-resource'
 import App from './App'
 
-    import { ApolloClient, createNetworkInterface } from 'apollo-client'
-    import VueApollo from 'vue-apollo'
-
 Vue.use(VueRouter)
 Vue.use(VueResource)
 
