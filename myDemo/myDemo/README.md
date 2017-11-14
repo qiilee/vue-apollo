@@ -1,6 +1,6 @@
-# vue-apollo-demo
+# mydemo
 
-> A Vue.js project
+> mydemo test
 
 ## Build Setup
 
