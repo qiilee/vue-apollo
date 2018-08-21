@@ -1,18 +1,18 @@
-### 1¡¢https://github.com/Akryum/vue-apollo-example ÔËĞĞ³É¹¦£¬ÕâÊÇÒ»¸ö»ùÓÚvue+apolloµÄÏîÄ¿
-### apollo-server-example-master ´î½¨·şÎñ npm run dev
-### vue-apollo-example-master    ÔËĞĞ°¸Àı npm run dev
+* 1ã€https://github.com/Akryum/vue-apollo-example è¿è¡ŒæˆåŠŸï¼Œè¿™æ˜¯ä¸€ä¸ªåŸºäºvue+apolloçš„é¡¹ç›®
+  * apollo-server-example-master æ­å»ºæœåŠ¡ npm run dev
+  * vue-apollo-example-master    è¿è¡Œæ¡ˆä¾‹ npm run dev
 
-### 2¡¢https://github.com/Akryum/frontpage-vue-app   °üÒÑ°²×°  ÔËĞĞ³É¹¦  
-### frontpage-server  ÏÈÆô¶¯·şÎñ£¬npm start
-### frontpage-vue-app ÔÙÆô¶¯app£¬npm start
+* 2ã€https://github.com/Akryum/frontpage-vue-app   åŒ…å·²å®‰è£…  è¿è¡ŒæˆåŠŸ  
+  * frontpage-server  å…ˆå¯åŠ¨æœåŠ¡ï¼Œnpm start
+  * frontpage-vue-app å†å¯åŠ¨appï¼Œnpm start
 
-### 3¡¢myDemo
-### ÆäÖĞÓĞÒ»¸ömydemoÏîÄ¿£¬ÓÃÓÚ×Ô¼ºµÄÁ·Ï°,°´×Ågithub½Ì³ÌĞ´£¬µ«ÊÇ±¨´í£¡
+* 3ã€myDemo
+  * å…¶ä¸­æœ‰ä¸€ä¸ªmydemoé¡¹ç›®ï¼Œç”¨äºè‡ªå·±çš„ç»ƒä¹ ,æŒ‰ç€githubæ•™ç¨‹å†™ï¼Œä½†æ˜¯æŠ¥é”™ï¼
 
-### 4¡¢https://github.com/Akryum/vueconf-2017-demo  ÔËĞĞ³É¹¦£¬ÕâÊÇÒ»¸ö»ùÓÚvue+apolloµÄÏîÄ¿
-### ÔËĞĞÃüÁîvue build src/index.js --config config.js
+* 4ã€https://github.com/Akryum/vueconf-2017-demo  è¿è¡ŒæˆåŠŸï¼Œè¿™æ˜¯ä¸€ä¸ªåŸºäºvue+apolloçš„é¡¹ç›®
+  * è¿è¡Œå‘½ä»¤vue build src/index.js --config config.js
 
-### 5¡¢live demo
-### https://jsfiddle.net/Akryum/oyejk2qL/ À´×ÔÓÚ https://github.com/Akryum/vue-apollo ÖĞµÄlive demo
+* 5ã€live demo
+  * https://jsfiddle.net/Akryum/oyejk2qL/ æ¥è‡ªäº https://github.com/Akryum/vue-apollo ä¸­çš„live demo
 
-### 6¡¢hackernews-vue-apollo ºÍ vue-apollo-demo ÊÇÔÚgithubÉÏËÑµÄdemo£¬ÔËĞĞ³É¹¦
+* 6ã€hackernews-vue-apollo å’Œ vue-apollo-demo æ˜¯åœ¨githubä¸Šæœçš„demoï¼Œè¿è¡ŒæˆåŠŸ
